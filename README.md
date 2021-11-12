@@ -6,4 +6,6 @@ I'm a math student at UFSC.
 - 💬 Ask me about unit testing
 - 📫 How to reach me: higuima13@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm self-taught in calculus, python and cooking!
+- ⚡ Fun facts: 
+    - I'm self-taught in calculus, python and cooking!
+    - My favorite book and movie is stardust
