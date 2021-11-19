@@ -9,3 +9,5 @@ I'm a math student at UFSC.
 - ⚡ Fun facts: 
     - I'm self-taught in calculus, python and cooking!
     - My favorite book and movie is stardust
+
+Here you can visit my [Portfolio](https://higuima.github.io/higuima-portfolio/)
