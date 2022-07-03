@@ -3,7 +3,7 @@ I'm a math student at UFSC.
 
 - 🔭 I’m currently working at [XPinc](https://www.linkedin.com/company/xp-inc/mycompany/) as a data scientist intern
 - 🌱 I’m currently learning data manipulation with python and sql
-- 💬 Ask me about unit testing
+- 💬 Ask me about differential equations
 - 📫 How to reach me: higuima13@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: 
