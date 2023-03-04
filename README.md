@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a math student at UFSC.
+I'm a data scientist in the making. 
 
 - 🔭 I’m currently working at [XPinc](https://www.linkedin.com/company/xp-inc/mycompany/) as a data scientist intern
 - 🌱 I’m currently learning data manipulation with python and sql
