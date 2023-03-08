@@ -14,8 +14,8 @@ Here you can visit my [Portfolio](https://higuima.github.io/higuima-portfolio/),
 
 
 If you want to check out my challenges from the FreeCodeCamp Data Analysis course here are the links:
-[Mean Variance Standard Deviatino Calculator](https://github.com/higuima/boilerplate-mean-variance-standard-deviation-calculator)
-[Sea Level Predictor](https://github.com/higuima/boilerplate-sea-level-predictor)
-[Page View Times Series Visualizer](https://github.com/higuima/boilerplate-page-view-time-series-visualizer)
-[Medical Data Visualizer](https://github.com/higuima/boilerplate-medical-data-visualizer)
-[Demographic Data Analyzer](https://github.com/higuima/boilerplate-demographic-data-analyzer)
+- [Mean Variance Standard Deviatino Calculator](https://github.com/higuima/boilerplate-mean-variance-standard-deviation-calculator)
+- [Sea Level Predictor](https://github.com/higuima/boilerplate-sea-level-predictor)
+- [Page View Times Series Visualizer](https://github.com/higuima/boilerplate-page-view-time-series-visualizer)
+- [Medical Data Visualizer](https://github.com/higuima/boilerplate-medical-data-visualizer)
+- [Demographic Data Analyzer](https://github.com/higuima/boilerplate-demographic-data-analyzer)
