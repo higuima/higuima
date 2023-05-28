@@ -10,10 +10,9 @@ I'm a data scientist in the making.
     - I'm self-taught in calculus, python and cooking!
     - My favorite book and movie is stardust
 
-My latest creation is this [gym single page template](https://gym-typescript-1jd.pages.dev/)
-
 Here you can visit my [Portfolio](https://higuima.github.io/higuima-portfolio/), where you can find my work history and some of the most interesting things I am currently studiyng or have already studied (this aplies to math and programming!). 
 
+My latest creation is this [gym single page template](https://gym-typescript-1jd.pages.dev/).
 
 If you want to check out my challenges from the FreeCodeCamp Data Analysis course here are the links:
 - [Mean Variance Standard Deviation Calculator](https://github.com/higuima/boilerplate-mean-variance-standard-deviation-calculator)
