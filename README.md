@@ -14,6 +14,8 @@ Here you can visit my [Portfolio](https://higuima.github.io/higuima-portfolio/),
 
 My latest creation is this [gym single page template](https://gym-typescript-1jd.pages.dev/).
 
+[![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=higuima&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=higuima&theme=dracula)](https://git.io/streak-stats)
+
 If you want to check out my challenges from the FreeCodeCamp Data Analysis course here are the links:
 - [Mean Variance Standard Deviation Calculator](https://github.com/higuima/boilerplate-mean-variance-standard-deviation-calculator)
 - [Sea Level Predictor](https://github.com/higuima/boilerplate-sea-level-predictor)
@@ -21,5 +23,5 @@ If you want to check out my challenges from the FreeCodeCamp Data Analysis cours
 - [Medical Data Visualizer](https://github.com/higuima/boilerplate-medical-data-visualizer)
 - [Demographic Data Analyzer](https://github.com/higuima/boilerplate-demographic-data-analyzer)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higuima&layout=pie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=higuima&theme=dark&hide_border=true)](https://git.io/streak-stats)
