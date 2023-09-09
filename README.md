@@ -22,4 +22,4 @@ If you want to check out my challenges from the FreeCodeCamp Data Analysis cours
 - [Demographic Data Analyzer](https://github.com/higuima/boilerplate-demographic-data-analyzer)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=higuima)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=higuima&theme=dark&hide_border=true)](https://git.io/streak-stats)
