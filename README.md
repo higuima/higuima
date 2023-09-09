@@ -20,3 +20,6 @@ If you want to check out my challenges from the FreeCodeCamp Data Analysis cours
 - [Page View Times Series Visualizer](https://github.com/higuima/boilerplate-page-view-time-series-visualizer)
 - [Medical Data Visualizer](https://github.com/higuima/boilerplate-medical-data-visualizer)
 - [Demographic Data Analyzer](https://github.com/higuima/boilerplate-demographic-data-analyzer)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=higuima)](https://git.io/streak-stats)
