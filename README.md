@@ -10,7 +10,7 @@ I'm a data scientist in the making.
     - I'm self-taught in calculus, python and cooking!
     - My favorite book and movie is stardust
 
-Here you can visit my [Portfolio](https://higuima.github.io/higuima-portfolio/), where you can find my work history and some of the most interesting things I am currently studiyng or have already studied (this aplies to math and programming!). 
+Here you can visit my [portfolio](https://higuima.com/), where you can find my work history and some of the most interesting things I am currently studiyng or have already studied (this aplies to math and programming!). 
 
 My latest creation is this [to do list/kanban style application](https://todolist-higuima.streamlit.app/). I used python, mongodb and streamlit to explore the possibilities of creating a database that allows users to create tasks and organize them in a kanban methodology.
 
