@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a data scientist in the making. 
 
-- 🔭 I’m currently working at [XPinc](https://www.linkedin.com/company/xp-inc/mycompany/) as a data scientist junior analyst
+- 🔭 I’m currently working at Itaú as a data scientist junior analyst
 - 🌱 I’m currently learning data manipulation with python and sql
 - 💬 Ask me about differential equations
 - 📫 How to reach me: higuima13@gmail.com
