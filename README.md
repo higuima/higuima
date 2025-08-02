@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm a data scientist in the making. 
 
-- 🔭 I’m currently working at Itaú as a data scientist junior analyst
-- 🌱 I’m currently learning data manipulation with python and sql
+- 🔭 I’m currently working at Itaú as a data scientist
+- 🌱 I’m currently learning how to create a multilabel model
 - 💬 Ask me about differential equations
 - 📫 How to reach me: higuima13@gmail.com
 - 😄 Pronouns: she/her
